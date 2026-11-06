@@ -1,6 +1,6 @@
 # Founder Tools
 
-Free tools for founders from Taissa Maleh: investor, operator, founder coach. Each one comes out of hundreds of pre-seed reviews and is built to be used, not read.
+Free tools for founders from Taissa Maleh: investor, operator, advisor. Each one comes out of hundreds of pre-seed reviews and is built to be used, not read.
 
 ## Tools
 
