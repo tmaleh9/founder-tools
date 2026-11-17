@@ -6,7 +6,7 @@ Free tools for founders from Taissa Maleh: investor, operator, advisor. Each one
 
 | Tool | What it does |
 |---|---|
-| [Problem Depth Ladder](problem-depth-ladder/) | A one-page scorecard for how deeply a founder understands the problem. Use it on your own company before an investor does. |
+| [Problem Depth Ladder](problem-depth-ladder/) | A thought-process exercise on how deeply you understand the problem you solve: five rungs, about eight minutes, and a report on where your ladder breaks. Climb it at [tmaleh.com/ladder](https://tmaleh.com/ladder). |
 
 More tools land here as they are built.
 
