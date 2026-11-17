@@ -1,8 +1,16 @@
 # Problem Depth Ladder
 
-A one-page scorecard for judging how deeply a founder understands the problem they are solving. At the earliest stage, that depth predicts who builds the category better than the product, the resume or early traction.
+A way to judge how deeply a founder understands the problem they are solving. At the earliest stage, that depth predicts who builds the category better than the product, the resume or early traction.
 
-Built by Taissa Maleh from hundreds of pre-seed reviews. Use it on your own company before an investor does.
+Built by Taissa Maleh from hundreds of pre-seed reviews.
+
+**Climb it yourself at [tmaleh.com/ladder](https://tmaleh.com/ladder).** It is a thought-process exercise, not a test and not a verdict: about eight minutes, five rungs, questions about what has already happened, and a short report at the end on where your ladder breaks and what to do next. Nothing is stored. Your answers go to a booking form only if you choose to book a call.
+
+This page is the reference behind it.
+
+## What I look for
+
+I back big dreamers who are even bigger executors. At pre-seed I look for proof that you understand the tailwinds the market brings to the opportunity, and that you bring a unique perspective and value to it: my version of the Why Now and the Why You. The depth of your understanding of the problem tells me whether you are laying the foundation for a moat. Founders who go after the root cause build things that are hard to copy. Founders building for a shallow need build an empty shell.
 
 ## The question at every rung
 
@@ -18,11 +26,15 @@ Built by Taissa Maleh from hundreds of pre-seed reviews. Use it on your own comp
 | 4 | Third derivative | the root cause in human terms (incentives, fear, status, trust, habit), which holds when the technology changes | If the technology got ten times cheaper tomorrow, why would the problem still exist? |
 | 5 | Community | people who share the belief already gathering around them | Who shows up for this problem without being paid to? |
 
-## How to score
+## What counts as proof
 
-- The score is the highest rung the founder can show with evidence they gathered themselves. Each rung needs the one below it.
-- A citation, a market report or a smart framing is not evidence for any rung. A conversation, a dataset they built, a behaviour they observed is.
-- Score the founder, not the deck. Ask the question out loud and listen to the answer.
+- Something that already happened, with a name, a number, a date or the customer's own words, that a stranger could check.
+- Evidence you gathered from the people who have the problem: a conversation, something you watched, data or files you went through yourself.
+- A citation, a market report or a smart framing is not proof at any rung.
+- "Would", "everyone" and "most people" are about the future or about no one in particular. Proof is about a specific someone.
+- "Not yet" is an honest answer and a useful one. It tells you where to go next.
+
+Each rung needs the one below it. You are on the highest rung whose proof holds, and the next step is the first one that does not.
 
 ## What a 3 sounds like vs a 5 (illustrative)
 
